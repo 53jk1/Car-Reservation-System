@@ -1,0 +1,92 @@
+CRITICAL - 2020-11-16 17:27:13 --> Undefined variable: request
+#0 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/app/Controllers/App.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/klient.dh...', 41, Array)
+#1 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(918): App\Controllers\App->login_process()
+#2 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\App))
+#3 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-16 17:34:08 --> Undefined index: error
+#0 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/app/Views/logowanie.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home/klient.dh...', 30, Array)
+#1 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/View/View.php(246): include('/home/klient.dh...')
+#2 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/Common.php(1119): CodeIgniter\View\View->render('logowanie', Array, true)
+#3 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/app/Controllers/App.php(29): view('logowanie', Array)
+#4 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(918): App\Controllers\App->login_page()
+#5 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\App))
+#6 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-11-16 18:17:31 --> Undefined variable: PrzykladoweSamochody
+#0 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/app/Views/samochod.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/klient.dh...', 22, Array)
+#1 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/View/View.php(246): include('/home/klient.dh...')
+#2 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/Common.php(1119): CodeIgniter\View\View->render('samochod', Array, true)
+#3 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/app/Controllers/App.php(83): view('samochod', Array)
+#4 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(918): App\Controllers\App->samochod('1')
+#5 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\App))
+#6 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-11-16 18:17:41 --> Undefined variable: PrzykladoweSamochody
+#0 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/app/Views/samochod.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/klient.dh...', 22, Array)
+#1 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/View/View.php(246): include('/home/klient.dh...')
+#2 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/Common.php(1119): CodeIgniter\View\View->render('samochod', Array, true)
+#3 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/app/Controllers/App.php(83): view('samochod', Array)
+#4 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(918): App\Controllers\App->samochod('9')
+#5 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\App))
+#6 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-11-16 18:17:44 --> Undefined variable: PrzykladoweSamochody
+#0 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/app/Views/samochod.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/klient.dh...', 22, Array)
+#1 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/View/View.php(246): include('/home/klient.dh...')
+#2 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/Common.php(1119): CodeIgniter\View\View->render('samochod', Array, true)
+#3 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/app/Controllers/App.php(83): view('samochod', Array)
+#4 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(918): App\Controllers\App->samochod('1')
+#5 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\App))
+#6 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-11-16 20:00:35 --> syntax error, unexpected 'if' (T_IF)
+#0 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/Common.php(1119): CodeIgniter\View\View->render('samochod', Array, true)
+#1 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/app/Controllers/App.php(87): view('samochod', Array)
+#2 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(918): App\Controllers\App->samochod('2')
+#3 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\App))
+#4 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-16 20:02:32 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/Common.php(1119): CodeIgniter\View\View->render('samochod', Array, true)
+#1 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/app/Controllers/App.php(87): view('samochod', Array)
+#2 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(918): App\Controllers\App->samochod('2')
+#3 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\App))
+#4 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-16 23:16:21 --> syntax error, unexpected '}'
+#0 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/home/klient.dh...')
+#1 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#5 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#6 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-11-16 23:21:42 --> Allowed fields must be specified for model: App\Models\SamochodyModel
+#0 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/Model.php(1265): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Samo...')
+#1 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/Model.php(870): CodeIgniter\Model->doProtectFields(Array)
+#2 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/app/Controllers/App.php(85): CodeIgniter\Model->update(Array, Array)
+#3 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(918): App\Controllers\App->admin_edit()
+#4 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\App))
+#5 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-11-16 23:24:46 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/home/klient.dh...')
+#1 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Samo...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Samo...')
+#3 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/app/Controllers/BaseController.php(17): spl_autoload_call('App\\Models\\Samo...')
+#4 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(891): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#5 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#6 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/klient.dhosting.pl/konradgruza/domeny/rezerwacja.onrop.pl/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
