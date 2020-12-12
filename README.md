@@ -1,3 +1,5 @@
+It will be translated into English soon.
+
 # Opis aplikacji
 W kilku elementach wskażę elementy, które podlegały edycji w tej aplikacji, co przyda się bardzo podczas jej analizowania.
 Aplikacja działa w taki sposób, że:
